@@ -1,2 +1,3 @@
-# desafio-miro-scrum
-Completando o Framework Scrum
+# Desafio - Certificação Scrum Master - DIO
+
+Respostas no PDF em anexo.
